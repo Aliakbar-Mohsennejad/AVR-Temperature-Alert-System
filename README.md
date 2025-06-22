@@ -29,11 +29,11 @@ The program reads temperature via ADC from the LM35 sensor, displays the current
 
 ### 📟 LCD: Neutral vs Alert State
 
-<img src="images/lcd_comparison_neutral_vs_alert.jpg" width="500"/>
+<img src="Images/lcd_comparison_neutral_vs_alert.jpg" width="500"/>
 
 ### 🔴 LED Triggered on Temperature Alert
 
-<img src="images/led_alert_triggered.jpg" width="450"/>
+<img src="Images/led_alert_triggered.jpg" width="450"/>
 
 ---
 
