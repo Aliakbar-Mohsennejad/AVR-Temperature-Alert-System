@@ -41,7 +41,7 @@ The program reads temperature via ADC from the LM35 sensor, displays the current
 
 Watch the full demo video showing real-time operation of the project, with explanation of the logic and code. *(in Persian)*
 
-📺 [YouTube Demo Video]([https://youtu.be/YOUR_VIDEO_LINK](https://youtu.be/1NY2_btq1LM))
+📺 [YouTube Demo Video](https://youtu.be/1NY2_btq1LM)
 
 ---
 
