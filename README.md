@@ -25,7 +25,7 @@ The program reads temperature via ADC from the LM35 sensor, displays the current
 
 ### 🧩 Simulation Overview (Proteus)
 
-<img src="images/simulation_overview.jpg" width="600"/>
+<img src="Images/simulation_overview.jpg" width="600"/>
 
 ### 📟 LCD: Neutral vs Alert State
 
