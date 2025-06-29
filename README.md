@@ -58,12 +58,6 @@ AVR-Temperature-Alert-System/
 
 ---
 
-## 📄 Documentation
-
-- `docs/project_report.pdf`: Original project report in Persian
-- `docs/translated_summary.md`: Brief English explanation of the project
-
----
 
 ## 👨‍💻 Author
 
